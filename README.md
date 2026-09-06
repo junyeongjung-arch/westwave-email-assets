@@ -1,3 +1,8 @@
 # WESTWAVE email banner assets
-Public GIFs for jsDelivr CDN: https://cdn.jsdelivr.net/gh/junyeongjung-arch/westwave-email-assets@main/email/
 
+Production GIF assets served through jsDelivr for WESTWAVE business email.
+
+This repository contains rendered distribution assets only. Source artwork,
+editable design files, and email templates are not published here.
+
+Copyright © WESTWAVE. All rights reserved. No open-source license is granted.
